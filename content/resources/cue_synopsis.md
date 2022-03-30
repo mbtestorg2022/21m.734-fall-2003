@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-734-lighting-design-for-the-theatre-fall-2003/a47d85bf2eeb245fc06247fea6142f80_cue_synopsis.pdf
 file_type: application/pdf
+parent_uid: a872c644-9c75-9a50-a5e7-897e4755f796
 resourcetype: Document
 title: cue_synopsis.pdf
 uid: a47d85bf-2eeb-245f-c062-47fea6142f80
